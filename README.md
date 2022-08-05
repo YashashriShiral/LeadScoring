@@ -1,7 +1,7 @@
 # Lead Scoring
 ## Lead Scoring Using Logistic Regression
 Lead scoring is a valuable tool while implementing a marketing strategy and in this article, you will understand how you can do it using Machine learning.
-In this repo I'm covering following-->
+In this repo I'm covering following topics-->
 1. What is lead scoring and why it’s important
 2. Types of lead scoring
 3. Understanding Data
